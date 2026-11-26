@@ -1,0 +1,65 @@
+{
+  "archive_version": "2026-11-26",
+  "source_type": "historical_generated_pdf_text",
+  "final_by_date": true,
+  "daily": [
+    {
+      "date": "2026-11-13",
+      "original_pdf": "每日计划20261113_V1.2.pdf",
+      "text_file": "daily/2026-11-13.md"
+    },
+    {
+      "date": "2026-11-14",
+      "original_pdf": "每日计划20261114.pdf",
+      "text_file": "daily/2026-11-14.md"
+    },
+    {
+      "date": "2026-11-15",
+      "original_pdf": "每日计划20261115.pdf",
+      "text_file": "daily/2026-11-15.md"
+    },
+    {
+      "date": "2026-11-16",
+      "original_pdf": "每日计划20261116.pdf",
+      "text_file": "daily/2026-11-16.md"
+    },
+    {
+      "date": "2026-11-17",
+      "original_pdf": "每日计划20261117_电影小班修订版.pdf",
+      "text_file": "daily/2026-11-17.md"
+    },
+    {
+      "date": "2026-11-18",
+      "original_pdf": "每日计划20261118.pdf",
+      "text_file": "daily/2026-11-18.md"
+    },
+    {
+      "date": "2026-11-19",
+      "original_pdf": "每日计划20261119.pdf",
+      "text_file": "daily/2026-11-19.md"
+    },
+    {
+      "date": "2026-11-20",
+      "original_pdf": "每日计划20261120.pdf",
+      "text_file": "daily/2026-11-20.md"
+    },
+    {
+      "date": "2026-11-25",
+      "original_pdf": "每日计划20261125.pdf",
+      "text_file": "daily/2026-11-25.md"
+    },
+    {
+      "date": "2026-11-26",
+      "original_pdf": "每日计划20261126.pdf",
+      "text_file": "daily/2026-11-26.md"
+    }
+  ],
+  "long_term": {
+    "original_pdf": "个人规划制度与每周时间底图_V1.2.pdf",
+    "text_file": "long-term/v1.2.md"
+  },
+  "month_source": "V1.2 long-term plan, not a separately issued monthly PDF",
+  "formats_published": [
+    "markdown"
+  ]
+}
