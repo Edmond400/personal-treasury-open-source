@@ -60,6 +60,14 @@
   },
   "month_source": "V1.2 long-term plan, not a separately issued monthly PDF",
   "formats_published": [
-    "markdown"
-  ]
+    "markdown",
+    "original_pdf_docx_zip"
+  ],
+  "originals": {
+    "path": "originals/个人规划档案_2026-11_最终版原件.zip",
+    "files": 21,
+    "pdf": 11,
+    "docx": 10,
+    "sha256": "a94ef0ef8b2f283d71bc7c245e605c62e42221e6d2cc046e2a2e00853521998a"
+  }
 }
